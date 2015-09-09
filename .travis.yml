@@ -3,6 +3,8 @@ android:
    components:
    - platform-tools
    - android-22
+   - addon-google_apis-google-22
+   - addon-google_apis_x86-google-22
    - build-tools-22.0.1
    - extra
 
